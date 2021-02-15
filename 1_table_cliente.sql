@@ -1,4 +1,4 @@
-\c prueba1
+\c prueba
 
 CREATE TABLE cliente(
     id_cliente INT PRIMARY KEY,
